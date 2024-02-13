@@ -1,0 +1,15 @@
+
+
+.paragrafo-um {
+  background-color: #f5f5f5;
+ margin: 40px;
+ padding: 20px;
+
+}
+.paragrafo-dois {
+  margin: 40px;
+  padding: 20px;
+  background-color: #f0cce2;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold; 
+}
